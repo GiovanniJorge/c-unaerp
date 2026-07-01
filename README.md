@@ -1,5 +1,5 @@
 # C - Unaerp
-Exercícios em linguagem C usados nas aulas da Unaerp — coleção organizada por tópicos (manipulação de arquivos, strings, sub-rotinas e exercícios gerais). Ideal para estudantes que querem praticar sintaxe, controle de fluxo, manipulação de strings e entrada/saída de arquivos em C.
+Exercícios em linguagem C usados nas aulas da Unaerp — coleção organizada por tópicos (manipulação de arquivos, strings, sub-rotinas, estruturas de dados e exercícios gerais). Ideal para estudantes que querem [...]
 
 ## Conteúdo principal
 - Exercícios focados em problemas didáticos para aprendizagem de C.
@@ -19,7 +19,7 @@ Exercícios em linguagem C usados nas aulas da Unaerp — coleção organizada p
 - [Autor / Contato](#autor--contato)
 
 ## Visão geral
-Este repositório organiza pequenos programas em C que exemplificam conceitos de linguagem e resolução de problemas. Cada arquivo fonte normalmente resolve um exercício específico e está escrito com finalidade didática: leitura de dados, processos de transformação, uso de funções/sub-rotinas e manipulação de strings e arquivos.
+Este repositório organiza pequenos programas em C que exemplificam conceitos de linguagem e resolução de problemas. Cada arquivo fonte normalmente resolve um exercício específico e está escr[...]
 
 ## Estrutura do repositório
 Top-level:
@@ -32,6 +32,7 @@ Top-level:
 - exercicios-geral/         — exercícios diversos (ex.: `geral-ex1.c`, `geral-ex2.c`)
 - exercicios-strings/       — exercícios com strings (`strings-ex1.c`, ..., `strings-ex8.c`)
 - exercicios-subrotina/     — exercícios com funções/subrotinas (`subrotina-ex1.c`, ..., `subrotina-ex9.c`)
+- exercicios-tads/          — exercícios com tipos abstratos de dados (TADs)
 
 Como se encaixa:
 - Cada arquivo .c é um programa independente (exercício). A forma usual de usar o repositório é compilar o arquivo que você quer executar.
@@ -65,7 +66,7 @@ Executar um programa que lê de arquivo CSV (exemplo):
 ./arquivos-ex1/codigo < exercicios-arquivos/arquivos-ex1/alunos.csv
 ```
 
-Observação: alguns arquivos no repositório possuem nomes contendo caracteres acentuados (por ex. `código.c`). Para evitar problemas de portabilidade, é recomendável renomear para `codigo.c` e atualizar referências.
+Observação: alguns arquivos no repositório possuem nomes contendo caracteres acentuados (por ex. `código.c`). Para evitar problemas de portabilidade, é recomendável renomear para `codigo.c` [...]
 
 ## Boas práticas / recomendações de compilação
 - Use: `-std=c11 -Wall -Wextra -pedantic` para detectar avisos e manter portabilidade.
