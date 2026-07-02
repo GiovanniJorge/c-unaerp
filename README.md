@@ -9,6 +9,7 @@ Exercícios em linguagem C usados nas aulas da Unaerp — coleção organizada p
 
 ## Badges
 ![Licença](https://img.shields.io/github/license/GiovanniJorge/c-unaerp?style=flat-square)
+![Exercícios](https://img.shields.io/badge/quantidade-30%20exercícios-blue?style=flat-square)
 
 ## Sumário
 - [Visão geral](#visão-geral)
