@@ -26,6 +26,7 @@ Este repositório organiza pequenos programas em C que exemplificam conceitos de
 Top-level:
 ```text
 ├── .gitattributes
+├── .gitignore
 ├── LICENSE
 ├── README.md
 ├── exercicios-arquivos/        # Exercícios envolvendo leitura/escrita de arquivos (CSV, etc.)
